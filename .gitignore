@@ -1,0 +1,18 @@
+.venv/
+venv/
+models/hand_landmarker.task
+models/hand_landmarker.task.download
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# PyInstaller build output
+/build/
+/dist/
+
+# Local installers and generated executables (publish releases separately)
+*.exe
+*.part

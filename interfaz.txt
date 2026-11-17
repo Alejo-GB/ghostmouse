@@ -1,0 +1,17 @@
+Creacion de la interfaz del Proyecto
+
+Se agregaron los botones funcionales
+
+Se integraron el proyecto y la interfaz
+
+Cambio de interfaz de tkinter a Custom Tkinter
+
+Integracion de pequeña instruccion y guia de los controles
+
+--------------------
+
+Cambio de tamaño de la ventana a pantalla completa
+
+Agregacion de imagenes git para mejores instrucciones
+
+Nuevo atajo agregado
